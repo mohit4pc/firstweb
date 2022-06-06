@@ -1,0 +1,26 @@
+@media (max-width:920px) {
+    .f-services{
+        margin-left: 20px;
+    }
+    .section-footer{
+        margin-left: -80px;
+    }
+    .f-address{
+        margin-left: 2px;
+    }
+    .section-address .grid-two-column{
+        grid-template-columns: 1fr;
+    }
+}
+@media (max-width:720px){
+    .f-address{
+        margin-left: -260px;
+    }
+    .f-links{
+        margin-left: -240px;
+    }
+    .header .logo{
+        width: 40%;
+        height: 35%;
+    }
+}
