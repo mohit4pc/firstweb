@@ -28,7 +28,6 @@
 }
 html{
     font-size: 62.5%;
-    overflow-x: hidden;
 }   
 
 h1,h2,h3,h4{
@@ -76,7 +75,7 @@ li{
     align-items: center;
 }
 .header .logo{
-    height: 3rem;
+    height: 10rem;
 }
 .navbar-lists {
     display: flex;
